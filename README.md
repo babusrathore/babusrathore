@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello! I'm Babu 
 
-<!--
-**babusrathore/babusrathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **My Skills:**  
+- 🐍 Python | 🦄 Django | ⚡ JavaScript  
+- 📊 Excel VBA | 🔗 Power Query | 📑 Google Sheets Scripting  
+- 🌐 Google Sheets Web Apps | API Integration  
 
-Here are some ideas to get you started:
+### 📌 My Top Projects:  
+- 📝 **Excel VBA Automation**  
+- 📊 **Power Query Dashboards**  
+- 🌍 **Google Sheets Web Apps**  
+- 🏗 **Django Web Apps**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:**  
+[LinkedIn](https://linkedin.com/in/your_link) | [GitHub](https://github.com/babusrathore)  
